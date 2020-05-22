@@ -1,0 +1,10 @@
+<ModMetaData>
+	<name>Mentats</name>
+	<author>BetweenTheBorders</author>
+    <packageId>BetweenTheBorders.Mentats</packageId>
+	<supportedVersions>
+		<li>1.1</li>
+	</supportedVersions>
+	<description>Adding mentats from the Dune universe. Initial release. \n\n The Mentat Training perk increases learn speed to 150% and eliminates skill loss over time. \n\n Also adds a cultivatable plant to create the Juice of Sapho. \n\n With Royalty released, the lack of Dune-based mods was even more noticable. This mod is my first RimWorld mod and of limited scope to get the workflow of not only making a mod, but also the experience of post-release support.\n\n Should be compatible with everything unless there's a namespace collision. If there's anyone with better lore information, let me know. If this goes smoothly, a larger Dune-themed mod may follow. \n\n Known issues:\n Images need work \n Plant still uses potato plant graphic. \n No real game balancing has been attempted.</description>
+	<url>https://steamcommunity.com/profiles/76561197980482234/myworkshopfiles/?appid=294100</url>
+</ModMetaData>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <TraitDef>
+    <defName>MentatTraining</defName>
+    <commonality>0.1</commonality>
+    <degreeDatas>
+      <li>
+        <label>Mentat Training</label>
+        <description>{PAWN_nameDef} has received mentat training. The first thing they learned was how to learn, and they will never forget their skills.</description>
+        <statOffsets>
+          <GlobalLearningFactor>1.5</GlobalLearningFactor>
+        </statOffsets>
+      </li>
+    </degreeDatas>
+    <conflictingTraits>
+      <li>SlowLearner</li>
+      <li>TooSmart</li>
+      <li>FastLearner</li>
+      <li>GreatMemory</li>
+    </conflictingTraits>
+  </TraitDef>
+</Defs>
