@@ -20,5 +20,6 @@ No real game balancing has been attempted.
 If you feel like supporting my work:
 
 Patreon - https://www.patreon.com/betweentheborders
+
 Buy my book - https://www.amazon.com/dp/1542791030
 
