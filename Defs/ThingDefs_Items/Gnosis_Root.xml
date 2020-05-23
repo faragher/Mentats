@@ -18,6 +18,9 @@
         <rotDestroys>true</rotDestroys>
       </li>
     </comps>
+    <thingCategories>
+      <li>PlantMatter</li>
+    </thingCategories>
   </ThingDef>
 
 </Defs>
